@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Music Blog</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>My Music Blog</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <h2>The Power of Music</h2>
+        <p>Music is a powerful tool that can affect our emotions and even change our mood. It has the ability to bring people together and create a sense of community. Whether you’re a musician or just a music lover, there’s no denying the impact that music can have on our lives.</p>
+      </article>
+      <article>
+        <h2>The Benefits of Learning Music</h2>
+        <p>Learning to play an instrument or sing has many benefits, both for your physical and mental health. Studies have shown that playing music can improve memory, reduce stress and anxiety, and even increase your IQ. Plus, it’s a fun and rewarding hobby!</p>
+      </article>
+      <article>
+        <h2>My Favorite Music Genres</h2>
+        <p>I enjoy listening to a variety of music genres, but my favorites are rock and pop. There’s something about the energy and excitement of these genres that really speaks to me. Some of my favorite artists include Queen, Fleetwood Mac, and Taylor Swift.</p>
+      </article>
+    </main>
+    <footer>
+      <p>&copy; 2023 My Music Blog</p>
+    </footer>
+  </body>
+</html>
